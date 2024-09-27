@@ -3,7 +3,7 @@ Serrina Paasch
 Southern New Hampshire University
 CS-499 Computer Science Capstone 2024
 Brooke Goggin
-September 21st, 2024
+September 27th, 2024
 
 
 Briefly describe the artifact. What is it? When was it created?
